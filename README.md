@@ -1,7 +1,7 @@
 # Apple Design System
 
 <p align="center">
-  <img src="apple-design-system-poster.jpg" alt="Apple Design System" width="720">
+  <img src="apple-design-system-poster.jpg" alt="Apple Design System" width="100%" height="auto">
 </p>
 
 A curated, hand-written guide to Apple's design system for macOS, adapted from
