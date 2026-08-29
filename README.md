@@ -4,8 +4,8 @@
   <img src="apple-design-system-poster.jpg" alt="Apple Design System" width="100%" height="auto">
 </p>
 
-A curated, hand-written guide to Apple's design system for macOS, adapted from
-the official [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/).
+A collection of CSS spec dumps for Apple's macOS design system components —
+auto-layout definitions, dimensions, colors, and states for the core UI controls.
 
 ## Contents
 
@@ -45,5 +45,4 @@ the official [Apple Human Interface Guidelines](https://developer.apple.com/desi
 
 ---
 
-Derived from the Apple Human Interface Guidelines for educational reference.
-All visual assets belong to Apple Inc.
+CSS spec dumps for Apple macOS design system components, exported for reference use.
