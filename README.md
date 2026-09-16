@@ -5,7 +5,8 @@
 </p>
 
 A collection of CSS spec dumps for Apple's macOS design system components —
-auto-layout definitions, dimensions, colors, and states for the core UI controls.
+auto-layout definitions, dimensions, colors, and states for the core UI controls —
+plus the Signature App Store Style guide for iOS App Store–vernacular feature cards.
 
 ## Contents
 
@@ -45,4 +46,4 @@ auto-layout definitions, dimensions, colors, and states for the core UI controls
 
 ---
 
-CSS spec dumps for Apple macOS design system components, exported for reference use.
+CSS spec dumps and the Signature App Store Style guide for Apple macOS design system components, exported for reference use.
